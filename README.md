@@ -9,7 +9,7 @@ A Google Cloud PubSub driver for Laravel/Lumen Queue.
 ## Installation
 You can easily install this package via [Composer](https://getcomposer.org) using this command:
 ```bash
-composer require twipi-group/googlecloud-pubsub-laravel-queue-driver
+composer require JesseCoinmerce/googlecloud-pubsub-laravel-queue-driver
 ```
 ### Laravel
 Register this package by adding the following line to the autoloaded service providers of your `config/app.php` file:
