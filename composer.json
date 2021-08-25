@@ -1,5 +1,5 @@
 {
-    "name": "twipi-group/googlecloud-pubsub-laravel-queue-driver",
+    "name": "jessecoinmerce/googlecloud-pubsub-laravel-queue-driver",
     "description": "Google Cloud PubSub driver for Laravel/Lumen Queue.",
     "keywords": [
         "queue",
@@ -24,7 +24,7 @@
         "illuminate/queue": "5.7.*|5.8.*|^6.0|^7.0",
         "illuminate/support": "5.7.*|5.8.*|^6.0|^7.0",
         "google/cloud-pubsub": "^1.21",
-        "twipi-group/googlecloud-pubsub-php-adapter": "^1.0"
+        "jessecoinmerce/googlecloud-pubsub-laravel-queue-driver": "^1.1.1"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
