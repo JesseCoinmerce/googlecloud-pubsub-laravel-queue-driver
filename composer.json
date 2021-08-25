@@ -51,7 +51,7 @@
         {
             "type": "vcs",
             "url":  "https://github.com/JesseCoinmerce/googlecloud-pubsub-php-adapter.git"
-        },   
+        }
     ],
     "minimum-stability": "dev",
     "prefer-stable": true
